@@ -44,7 +44,7 @@ export default [
     title: "Broccoli Cheese Soup",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-    coverImg: "/public/images/cardImg-06.png",
+    coverImg: "/images/cardImg-06.png",
     alt: "broccoli cheese soup",
   },
 ];
