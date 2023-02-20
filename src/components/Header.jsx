@@ -32,7 +32,7 @@ export default function Header() {
           "2xl": "765px",
         }}
         // right={{ xl: "0" }}
-        src="/src/assets/images/header-img.png"
+        src="/images/header-img.png"
         alt="header-image"
       />
       <Image
@@ -40,7 +40,7 @@ export default function Header() {
         width={{ base: "375px", sm: "375px", lg: "750px" }}
         top={{ base: "0" }}
         right={{ base: "0" }}
-        src="/src/assets/images/header-img-rel.png"
+        src="/images/header-img-rel.png"
       />
       <Box
         display={"flex"}
@@ -78,7 +78,7 @@ export default function Header() {
           <Image
             display={{ base: "none", lg: "block" }}
             mb={{ lg: "9em" }}
-            src="/src/assets/images/logo.png"
+            src="/images/logo.png"
             alt="site-logo"
           />
 

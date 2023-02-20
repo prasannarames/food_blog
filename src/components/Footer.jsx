@@ -14,7 +14,7 @@ function Footer() {
       // alignItems={"center"}
     >
       <Image
-        src="/src/assets/images/logo.png"
+        src="/images/logo.png"
         alt="page logo"
         mb={"2em"}
         margin={{ base: "0 auto", lg: "5%" }}
@@ -156,17 +156,17 @@ function Footer() {
         my={{base:"1em", lg:"0"}}
         >
           <a>
-            <Image src="/src/assets/icons/insta.png" />
+            <Image src="/icons/insta.png" />
           </a>
           <a>
             <Image
               marginLeft={"1em"}
               marginRight={"1em"}
-              src="/src/assets/icons/twitter.png"
+              src="/icons/twitter.png"
             />
           </a>
           <a>
-            <Image src="/src/assets/icons/fb.png" />
+            <Image src="/icons/fb.png" />
           </a>
         </Flex>
         <Box

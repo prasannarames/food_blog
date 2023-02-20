@@ -21,7 +21,7 @@ export default function About() {
           display={{ base: "none", lg: "block" }}
           h={"468px"}
           w={"364px"}
-          src="/src/assets/images/about-section-img.png"
+          src="images/about-section-img.png"
           alt="site-logo"
         />
         <Flex

@@ -15,11 +15,11 @@ function Pagination({ currentPage, totalPages, setCurrentPage }) {
   };
   return (
     <Flex justifyContent={"center"} padding={"3em"}>
-      <Image src="/src/assets/icons/left_chevron.png"onClick={previousPage} />
+      <Image src="/icons/left_chevron.png"onClick={previousPage} />
       <Text px={".5em"}>
         {currentPage}/{totalPages}
       </Text>
-      <Image src="src/assets/icons/right_chevron.png" onClick={nextPage} />
+      <Image src="/icons/right_chevron.png" onClick={nextPage} />
     </Flex>
   );
 }

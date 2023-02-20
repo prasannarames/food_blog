@@ -4,7 +4,7 @@ export default [
     title: "Grilled  Tomatoes at Home",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-    coverImg: "/public/images/cardImg-01.png",
+    coverImg: "/images/cardImg-01.png",
     alt: "Grilled  Tomatoes",
   },
   {
@@ -12,7 +12,7 @@ export default [
     title: "Snacks for Travel",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-    coverImg: "/public/images/cardImg-02.png",
+    coverImg: "/images/cardImg-02.png",
     alt: "snacks",
   },
   {
@@ -20,7 +20,7 @@ export default [
     title: "Post-workout Recipes",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-    coverImg: "/public/images/cardImg-03.png",
+    coverImg: "/images/cardImg-03.png",
     alt: "healthy diet",
   },
   {
@@ -28,7 +28,7 @@ export default [
     title: "How To Grill Corn",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-    coverImg: "/public/images/cardImg-04.png",
+    coverImg: "/images/cardImg-04.png",
     alt: "grilled corn",
   },
   {
@@ -36,7 +36,7 @@ export default [
     title: "Crunchwrap Supreme",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
-    coverImg: "/public/images/cardImg-05.png",
+    coverImg: "/images/cardImg-05.png",
     alt: "wraps",
   },
   {
